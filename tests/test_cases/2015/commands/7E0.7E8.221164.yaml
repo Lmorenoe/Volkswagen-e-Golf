@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.221164
 test_cases:
 - expected_values:
-    EGOLF_HVBAT_SOC_DISP: 77.04
-  response: 7E8056211641E18
+    EGOLF_HVBAT_SOC_DISP: 21.82
+  response: '7E8056211640886'
 - expected_values:
-    EGOLF_HVBAT_SOC_DISP: 87.03
-  response: 7E80562116421FF
+    EGOLF_HVBAT_SOC_DISP: 48.65
+  response: '7E8056211641301'
 - expected_values:
-    EGOLF_HVBAT_SOC_DISP: 89.65
-  response: '7E8056211642305'
+    EGOLF_HVBAT_SOC_DISP: 56.31
+  response: 7E80562116415FF
 - expected_values:
     EGOLF_HVBAT_SOC_DISP: 95.14
   response: 7E805621164252A
